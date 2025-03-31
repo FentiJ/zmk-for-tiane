@@ -113,10 +113,10 @@
 
         lower_layer {
             bindings = <
-&kp ESC      &kp CAPSLOCK  &kp UP    &kp TAB    &kp PAGE_UP  &kp PAGE_DOWN  &kp NUMBER_4       &kp NUMBER_5  &kp NUMBER_6  &none
-&kp AT_SIGN  &kp LEFT      &kp DOWN  &kp RIGHT  &kp DELETE   &kp MINUS      &kp NUMBER_1       &kp NUMBER_2  &kp NUMBER_3  &kp EXCLAMATION
-&trans       &trans        &trans    &trans     &trans       &trans         &kp NUMBER_7       &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
-                           &trans    &trans     &trans       &kp COLON      &kp DOUBLE_QUOTES  &kp DOT
+&kp ESC      &kp CAPSLOCK  &kp UP    &kp TAB    &kp PAGE_UP  &kp PAGE_DOWN  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none
+&kp AT_SIGN  &kp LEFT      &kp DOWN  &kp RIGHT  &kp DELETE   &kp MINUS      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp EXCLAMATION
+&trans       &trans        &trans    &trans     &trans       &trans         &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
+                           &trans    &trans     &trans       &kp COLON      &kp DQT       &kp DOT
             >;
         };
 
